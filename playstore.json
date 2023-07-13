@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-6862601874950241310-5",
+  "private_key_id": "cfd8ba46ad450d68a39530f768424f12c21b8ecf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCok7YAzNKMIaNm\nSG/8R9GcZwAQvUUkbrl7FHp1kX8LJfMrWB01/d5HQX/ICYqI66A/k7ENEWLe07Nz\nZUz2rge2jWuNH6yN5CPH48QqoVpjHXGTC796WSoDnX6eI5ndchvQuzeNPg1KORdb\nGvFBG8RIVPLo2FO4scujU5MZvTVqrxgv+iwQibLwygB04KhTCwsA1GmisHvCAvvq\nx4zvdJ0VLP8LtNzpDqw1iYhiuXlHyhR35btcOmwMB98fHww6A9XoipnuC5D1zRuH\nF6r+4KYXkq3fls5D+am0r5JLIM1EDeL24RoqlW4VkGlJLXq0fPG3bhrVc5ub4gMt\nwRpK/1n5AgMBAAECggEAIEAH+u20XvolejEj+Wnc9DSxSsKG2oIzSlRf3COeYCnd\ntD5ackST1GJ3uXN31Rts0BTnc4ZOua3bABnSaEPhdl9mQrybRJbvcHOGyRgOxHTy\n0CyYcGXj94aXHVZWvopwv1U9uq/zF27GJNgJ7QiMm8DiqsCN/cDH4kJgGzW7JSI0\nHEQYNGmQauMnXw1vCdsM7i5BDDLGx3TCYy0abFUaSiz5bS0+6++q5lTjhb9egANr\nEAb+9GeH9kYVu2e3c63K8hXbX61pI4yhr40/PI/WObX7jYdeGzNU8qOGXfF67kqH\nBHwN1ht+UvhQH6GUJ07LwuBMLo45RIll8ZrNTlxS/QKBgQDbusWHggYpVDLJGfrE\n+VsoU9Dmaoveul+8AeVAdfDy81TAnoOrKpvxax4uobvj/18AI6TqWwickKthDpo4\nQ8Nt+jFCq4yvGhm8Ba27oKmz6VMvKUUbf0/upJEkxS5uGfZ1+ozbHlQpWWQ1zB8w\n2M5taw3zBvn0YYZ8r3mzFTLx9QKBgQDEZ1uaAWB1C9qWG3UEzhMp7Q6iysk3Xgbi\nVXLOtt7yhlvZIMnQc7Mtqg40g115CVkDQq/nGrz6v0l7nANMBhyUV+pzH/44SOR1\nhJHfXSv7CUA4M8vqJC+1LEGBpBuWtkot7bFaOfrtwPFRXeSveOi2dnJGjKITL0G7\nd/Wjxx+RdQKBgACiOEGcyWHDIWZdEdERmwaxvy967S5WQUJsivm1nV1GAF+R1XVf\n6RU4Jt0hkEYnDWIVuDsIyiyRaj0caqtw3pZpm0zC6+PxYlOdfJPG8dZX/Ops5wse\nQd/BT73YZ7rfjktmzpMvMjTwUg6pqQleBrJgFak2wu/GfDnN078Fd6ElAoGAA7K2\nhNXVzR5mBUGLGIYQ0k9GYUZUN5irpINbYA0NcZ+aByKY6jXjf86d6ds3XVoRtQAC\nc+WK/WWwqoUrgrjyvNBS98v4a3Lj6lqOrJgChf2MmgJPqp73zv+AVEKUymewSeEZ\n38sLsIJbiN6tuagbKaRdTnrDan0PTcpac7UCISkCgYBh+ZZlUpcgJVrKxtavKo60\nKyjKOTEHVHJe0hareMulhqnHo4vMXrGiodvh3m2Zp37+C+GNR8ThgMpURIbwVWvo\nB2+8IttvvpSN+0t1sNYXnn93G73gRXkw0Ds1jClZRITEh3AS8eCCgmezBOXqd3ff\n0b1EmlkGNMM7u7eATf+0eg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "patrick-play-store-apps@pc-api-6862601874950241310-5.iam.gserviceaccount.com",
+  "client_id": "117565551655115305044",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/patrick-play-store-apps%40pc-api-6862601874950241310-5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -56,6 +56,11 @@ const styles = StyleSheet.create({
     width: "100%",
     marginTop: SIZES.medium,
   },
+  profileImage: {
+    width: 40,
+    height: 40,
+    borderRadius: 15,
+  },
   tab: (activeJobType, item) => ({
     paddingVertical: SIZES.small / 2,
     paddingHorizontal: SIZES.small,

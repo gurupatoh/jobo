@@ -5,6 +5,21 @@
       "bundler": "metro"
     },
     "name": "moran",
-    "slug": "moran"
+    "slug": "moran",
+    "plugins": [
+      [
+        "@react-native-google-signin/google-signin"
+      ],
+      "expo-updates"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "626fdac7-b4ef-4858-b61a-242646a09687"
+      }
+    },
+    "android": {
+      "package": "com.gurupatoh.moran",
+      "googleServicesFile": "./google-services.json"
+    }
   }
 }
